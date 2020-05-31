@@ -1,0 +1,5 @@
+SSID = "ssid"
+PASSWORD = "password"
+MQTT_HOST = "host"
+MQTT_USER = "user"
+MQTT_PASSWORD = "password"

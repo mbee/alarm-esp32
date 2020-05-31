@@ -1,0 +1,6 @@
+SSID = "ssid"
+PASSWORD = "password"
+MQTT_HOST = "fqdn"
+MQTT_USER = "user"
+MQTT_PASSWORD = "password"
+PIN = "1234"
